@@ -1,0 +1,35 @@
+{
+	"appslist": [{
+			"appIconStr": "https://1.bp.blogspot.com/-GQErh12ycAY/X0OVqDYfHBI/AAAAAAAAANM/gt9zRZtWGh46GOcG1gn8n0K27MWad9BsACLcBGAsYHQ/s0/vpn-for-freeicon.png",
+			"appTitle": "VPN For Free - The Best VPN App",
+			"appDescription": "Fastest Free VPN Proxy Servers, Secure Internet, Unlimited use, no logs",
+			"url": "https://play.google.com/store/apps/details?id=com.vpnforfree.the.best.vpn.app.secureinternet.fastest.proxy",
+			"appCoverImage": "https://1.bp.blogspot.com/-h-lRFL9Ut_I/X0OVqItkorI/AAAAAAAAANQ/IZ3tbrSbHusel_1NNQys08HnP4qX75F_gCLcBGAsYHQ/s0/the-best-vpn-app.png"
+
+		},
+		{
+			"appIconStr": "https://live.staticflickr.com/65535/50266774711_cd08034026_o.png",
+			"appTitle": "i Phone Live Wallpapers",
+			"appDescription": "Best Live Wallpapers For Android Phones",
+			"url": "https://play.google.com/store/apps/details?id=com.rts.iphonelivewallpapers.iphone8.wallpapersforiphone.iwallpapers",
+			"appCoverImage": "https://live.staticflickr.com/65535/50266774681_0e08449a36_o.png"
+
+		},
+		{
+			"appIconStr": "https://live.staticflickr.com/65535/50266808776_8f68ca3e36_o.png",
+			"appTitle": "Jo jo Ringtones and Music Songs",
+			"appDescription": "Get Free Jo jo Music Ringtones On Your Phone. Best Jo jo Songs Tones.",
+			"url": "https://play.google.com/store/apps/details?id=com.rts.jojoringtones.jojos.best.music.song.ringtones.phonealm.siwa",
+			"appCoverImage": "https://live.staticflickr.com/65535/50266808746_fdc01928b5_o.png"
+
+		},
+		{
+			"appIconStr": "https://live.staticflickr.com/65535/50266825631_2396e6e432_o.png",
+			"appTitle": "UltimateVPN - Secure VPN Proxy",
+			"appDescription": "Hide Privacy, Browse Secure & anonymous, Unlock any website on the internet, we are providing many worldwide faster servers.",
+			"url": "https://play.google.com/store/apps/details?id=com.banostudio.ultimateVpn.vpn",
+			"appCoverImage": "https://live.staticflickr.com/65535/50266825701_f42f1a7b34_o.png"
+
+		}
+	]
+}
